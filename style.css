@@ -1,6 +1,13 @@
-h1,h2{
-  color : #2C3E50;
+.read-heading{
+  color :red;
 }
-p{
-  color:#333;
+.name{
+  color :orange;
 }
+*{
+  text-align: center;
+}
+.text{
+  text-align: center;
+}
+
